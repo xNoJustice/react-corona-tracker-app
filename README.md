@@ -1,3 +1,5 @@
+<img src="https://github.com/xNoJustice/react-corona-tracker-app/blob/9e2188db27f26f54a760338ef5e2ad52a2bc2d58/app.gif" alt="" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
